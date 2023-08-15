@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/14 16:55:42.000.381,=C:\Users\Suporte 04\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/14 17:51:14.000.388,C:\Users\Suporte 04\Desktop\teste\Unit1.dfm=C:\Users\Suporte 04\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/07/14 17:51:14.000.388,C:\Users\Suporte 04\Desktop\teste\Unit1.pas=C:\Users\Suporte 04\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/14 17:51:16.000.209,C:\Users\Suporte 04\Desktop\teste\Project1.dproj=C:\Users\Suporte 04\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/07/18 10:14:28.000.512,=C:\Users\Suporte 04\Desktop\teste\openSSL\libeay32.dll</Transaction>
+    <Transaction>2023/07/18 10:14:28.000.537,=C:\Users\Suporte 04\Desktop\teste\openSSL\ssleay32.dll</Transaction>
+    <Transaction>2023/07/18 10:14:56.000.439,C:\Users\Suporte 04\Desktop\teste\openSSL\libeay32.dll=</Transaction>
+    <Transaction>2023/07/18 10:14:56.000.822,C:\Users\Suporte 04\Desktop\teste\openSSL\ssleay32.dll=</Transaction>
+    <Transaction>2023/07/18 10:15:07.000.966,=C:\Users\Suporte 04\Desktop\teste\openSSL\libeay32.dll</Transaction>
+    <Transaction>2023/07/18 10:15:08.000.002,=C:\Users\Suporte 04\Desktop\teste\openSSL\ssleay32.dll</Transaction>
+    <Transaction>2023/07/18 10:15:11.000.670,C:\Users\Suporte 04\Desktop\teste\openSSL\libeay32.dll=</Transaction>
+    <Transaction>2023/07/18 10:15:12.000.758,C:\Users\Suporte 04\Desktop\teste\openSSL\ssleay32.dll=</Transaction>
+    <Transaction>2023/07/21 14:36:38.000.996,=\\192.168.0.150\Dados\GUILHERME\DEV\fazendo\sms\Unit2.pas</Transaction>
+    <Transaction>2023/07/25 08:39:26.000.684,=C:\Users\Suporte 04\Desktop\sms\Unit3.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
